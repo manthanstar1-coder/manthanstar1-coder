@@ -1,4 +1,4 @@
-# Hi 👋, I'm Vishwas
+# Hi 👋, I'm Manthan Thakur
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -10,7 +10,7 @@
 - Data Structures & Algorithms
 - Cyber Security
 - Artificial Intelligence & Machine Learning
-- App Devlopment
+- App Development
 
 🚀 **Working On**
 - Open Source Contributions
@@ -20,8 +20,8 @@
 
 ## 🌐 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/vishwas0229)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:852006rahul@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/manthanstar1-coder)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:manthanstar.1@gmail.com)
 
 ---
 
@@ -82,15 +82,9 @@
 
 <p align="center">
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/vishwas0229/vishwas0229/output/github-contribution-grid-snake-dark.svg">
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/vishwas0229/vishwas0229/output/github-contribution-grid-snake.svg">
-    <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/vishwas0229/vishwas0229/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manthanstar1-coder/manthanstar1-coder/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manthanstar1-coder/manthanstar1-coder/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/manthanstar1-coder/manthanstar1-coder/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
