@@ -33,18 +33,15 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="./profile/stats.svg" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manthanstar1-coder&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthanstar1-coder&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" />
 </p>
 
 <p align="center">
-  <img src="./profile/streak.svg" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="./profile/top-langs.svg" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=manthanstar1-coder&theme=tokyonight&hide_border=true&border_radius=20" />
 </p>
 
 ---
