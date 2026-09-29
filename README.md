@@ -36,12 +36,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="./profile/stats.svg" alt="GitHub Stats" width="49%" />
-  <img src="./profile/top-langs.svg" alt="Top Languages" width="49%" />
+  <img src="./profile/stats.svg" alt="GitHub Stats" width="64%" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" width="34%" />
 </p>
 
 <p align="center">
-  <img src="./profile/streak.svg" alt="GitHub Streak" />
+  <img src="./profile/streak.svg" alt="GitHub Streak" width="80%" />
 </p>
 
 ---
